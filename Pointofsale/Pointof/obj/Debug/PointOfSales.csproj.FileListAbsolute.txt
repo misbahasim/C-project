@@ -1,0 +1,94 @@
+D:\Pointof\Pointof\bin\Debug\Pointof.exe.config
+F:\Pointof\Pointof\bin\Debug\Pointof.exe.config
+F:\Pointof\Pointof\bin\Debug\StudentDB.mdf
+F:\Pointof\Pointof\bin\Debug\StudentDB_log.ldf
+F:\Pointof\Pointof\bin\Debug\POS_db.mdf
+F:\Pointof\Pointof\bin\Debug\POS_db_log.ldf
+F:\Pointof\Pointof\bin\Debug\Pointof.exe
+F:\Pointof\Pointof\bin\Debug\Pointof.pdb
+F:\Pointof\Pointof\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Pointof\Pointof\obj\Debug\Pointof.Form1.resources
+F:\Pointof\Pointof\obj\Debug\Pointof.Properties.Resources.resources
+F:\Pointof\Pointof\obj\Debug\Pointof.student_form.resources
+F:\Pointof\Pointof\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Pointof\Pointof\obj\Debug\Pointof.exe
+F:\Pointof\Pointof\obj\Debug\Pointof.pdb
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\bin\Debug\Pointof.exe.config
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.exe
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.pdb
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\bin\Debug\StudentDB.mdf
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\bin\Debug\StudentDB_log.ldf
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\bin\Debug\POS_db.mdf
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\bin\Debug\POS_db_log.ldf
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\bin\Debug\Pointof.exe
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\bin\Debug\Pointof.pdb
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.Category.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.CategoryList.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.LoginForm.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.MainOutputForm.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.Product.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.ProductList.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.Properties.Resources.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\Pointof.student_form.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointof\Pointof\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+K:\Pointof\Pointof\bin\Debug\Pointof.exe.config
+K:\Pointof\Pointof\obj\Debug\Pointof.exe
+K:\Pointof\Pointof\obj\Debug\Pointof.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\StudentDB.mdf
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\StudentDB_log.ldf
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\POS_db.mdf
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\POS_db_log.ldf
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Category.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.LoginForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.MainOutputForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Product.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.student_form.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.exe.config
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.exe
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.pdb
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Category.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.LoginForm.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.MainOutputForm.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Product.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Properties.Resources.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.student_form.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\StudentDB.mdf
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\StudentDB_log.ldf
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\POS_db.mdf
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\POS_db_log.ldf
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.exe
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.pdb
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.StockIn.resources
+C:\Users\Temp.SFC\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.UserForm.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.exe.config
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.exe
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.pdb
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\StudentDB.mdf
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\StudentDB_log.ldf
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\POS_db.mdf
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\POS_db_log.ldf
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.exe
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debug\Pointof.pdb
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Category.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.LoginForm.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.MainOutputForm.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Product.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Properties.Resources.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.StockIn.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.student_form.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.UserForm.resources
+C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.StockIn.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.UserForm.resources
