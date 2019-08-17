@@ -47,7 +47,6 @@ C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\bin\Debu
 C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Category.resources
 C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.LoginForm.resources
-C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.MainOutputForm.resources
 C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Product.resources
 C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Properties.Resources.resources
 C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.student_form.resources
@@ -92,3 +91,5 @@ C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debu
 C:\Users\temp\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
 C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.StockIn.resources
 C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.UserForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Dashboard.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Pointofsale\Pointof\obj\Debug\Pointof.Starting_prog.resources

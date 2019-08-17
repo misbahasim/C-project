@@ -79,14 +79,14 @@
             this.Column1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
             this.Column1.HeaderText = "#";
             this.Column1.Name = "Column1";
-            this.Column1.Width = 39;
+            this.Column1.Width = 47;
             // 
             // Column2
             // 
             this.Column2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
             this.Column2.HeaderText = "ID";
             this.Column2.Name = "Column2";
-            this.Column2.Width = 43;
+            this.Column2.Width = 54;
             // 
             // Column3
             // 
@@ -99,7 +99,7 @@
             this.lblId.AutoSize = true;
             this.lblId.Location = new System.Drawing.Point(498, 135);
             this.lblId.Name = "lblId";
-            this.lblId.Size = new System.Drawing.Size(20, 17);
+            this.lblId.Size = new System.Drawing.Size(27, 23);
             this.lblId.TabIndex = 1;
             this.lblId.Text = "ID";
             // 
@@ -108,7 +108,8 @@
             this.txtId.Location = new System.Drawing.Point(540, 132);
             this.txtId.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtId.Name = "txtId";
-            this.txtId.Size = new System.Drawing.Size(186, 25);
+            this.txtId.ReadOnly = true;
+            this.txtId.Size = new System.Drawing.Size(186, 29);
             this.txtId.TabIndex = 2;
             // 
             // lblCategory
@@ -117,7 +118,7 @@
             this.lblCategory.Enabled = false;
             this.lblCategory.Location = new System.Drawing.Point(457, 210);
             this.lblCategory.Name = "lblCategory";
-            this.lblCategory.Size = new System.Drawing.Size(61, 17);
+            this.lblCategory.Size = new System.Drawing.Size(79, 23);
             this.lblCategory.TabIndex = 3;
             this.lblCategory.Text = "Category";
             // 
@@ -193,12 +194,12 @@
             this.lblOutput.AutoSize = true;
             this.lblOutput.Location = new System.Drawing.Point(488, 462);
             this.lblOutput.Name = "lblOutput";
-            this.lblOutput.Size = new System.Drawing.Size(0, 17);
+            this.lblOutput.Size = new System.Drawing.Size(0, 23);
             this.lblOutput.TabIndex = 10;
             // 
             // Category
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 550);
             this.Controls.Add(this.lblOutput);

@@ -28,6 +28,8 @@ namespace Pointof
 
         public void LoadRecord()
         {
+            btnSave.Enabled = false;
+
             dataGridView1.Rows.Clear();
             scon.Open();
             scmd = new SqlCommand("Select * from Category", scon);
@@ -44,7 +46,7 @@ namespace Pointof
 
         private void dataGridView1_RowHeaderMouseClick(object sender, DataGridViewCellMouseEventArgs e)
         {
-            txtId.ReadOnly = true;
+
             btnSave.Enabled = false;
             btnInsert.Enabled = true;
 
@@ -65,19 +67,37 @@ namespace Pointof
             txtCategory.Clear();
             lblOutput.Text = "";
 
-            txtId.ReadOnly = false;
             btnSave.Enabled = true;
-            btnInsert.Enabled = true;
+            btnInsert.Enabled = false;
             btnDelete.Enabled = false;
             btnUpdate.Enabled = false;
             
         }
         private void btnSave_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Do you want to add new category?", "Insert Category", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
-            {
-                lblOutput.Text = "New record added sucessfully";
+            try{
+                if (MessageBox.Show("Do you want to add new category?", "Insert Category", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                {
+                    string cat = txtCategory.Text;
+
+                    scon.Open();
+
+                    scmd = new SqlCommand("Insert into Category (Category) Values (@Cat)", scon);
+                    scmd.Parameters.AddWithValue("@Cat", cat);
+
+                    scmd.ExecuteNonQuery();
+
+                    scon.Close();
+                    lblOutput.Text = "New record added sucessfully";
+                }
+                LoadRecord();
             }
+            catch (Exception ex)
+            {
+                scon.Close();
+                MessageBox.Show(ex.Message);
+            }
+
             btnDelete.Enabled = true;
             btnUpdate.Enabled = true;
             btnInsert.Enabled = true;
@@ -111,8 +131,9 @@ namespace Pointof
                 scon.Close();
                 MessageBox.Show(ex.Message);
             }
-            txtId.ReadOnly = false;
+
             btnInsert.Enabled = true;
+            btnSave.Enabled = false;
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
@@ -121,20 +142,28 @@ namespace Pointof
             {
                 if (MessageBox.Show("Are you sure you want to delete this category?", "Delete Category", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
-                   // cn.Open();
-                    //cm = new SqlCommand("Delete from Product where Pcode");
-                   // cn.Close();
+                    int IdValue = int.Parse(txtId.Text);
+
+                    scon.Open();
+
+                    scmd = new SqlCommand("Delete from Category where Id = @cID",scon);
+                    scmd.Parameters.Add(new SqlParameter("@cID", IdValue));
+
+                    scmd.ExecuteNonQuery();
+
+                    scon.Close();
                     lblOutput.Text = "Your record is deleted";
                 }
+                LoadRecord();
             }
             catch (Exception ex)
             {
-               // cn.Close();
+               scon.Close();
                 MessageBox.Show(ex.Message);
             }
-            txtId.ReadOnly = false;
+
             btnInsert.Enabled = true;
-           
+            btnSave.Enabled = false;
         }
 
         private void btnclose_Click(object sender, EventArgs e)

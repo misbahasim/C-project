@@ -16,7 +16,7 @@ namespace Pointof
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainOutputForm());
+            Application.Run(new Product());
         }
     }
 }

@@ -33,7 +33,7 @@ namespace Pointof
             if (dt.Rows[0][0].ToString() == "1")
             {
                 this.Hide();
-                MainOutputForm mf = new MainOutputForm();
+                Dashboard mf = new Dashboard();
                 mf.Show();
             }
             else { 

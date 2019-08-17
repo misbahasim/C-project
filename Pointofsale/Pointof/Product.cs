@@ -23,6 +23,7 @@ namespace Pointof
             InitializeComponent();
             scon = new SqlConnection(dbcon.MyConnection());
             LoadRecord();
+            LoadCategory();
         }
         public void LoadRecord()
         {
@@ -35,6 +36,20 @@ namespace Pointof
             {
                 i++;
                 dataGridView1.Rows.Add(i,dr[0].ToString(), dr[1].ToString(),dr[2].ToString(),dr[3].ToString(),dr[4].ToString());
+            }
+            dr.Close();
+            scon.Close();
+        }
+
+        public void LoadCategory()
+        {
+            cmbPcategory.Items.Clear();
+            scon.Open();
+            scmd = new SqlCommand("Select category from Category", scon);
+            dr = scmd.ExecuteReader();
+            while (dr.Read())
+            {
+                cmbPcategory.Items.Add(dr[0].ToString());
             }
             dr.Close();
             scon.Close();
